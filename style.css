@@ -1,9 +1,13 @@
 div{
-    background: linear-gradient(to right,rgb(116, 106, 106),rgb(199, 240, 199));
+    background: linear-gradient(to right,rgb(240, 231, 231),rgb(233, 247, 233));
     height: 100vh;
     text-align: center;
 }
 
-.login{
+#btn{
+    margin-top: 5%;
+}
+.global{
+    
     margin-top: 5%;
 }
